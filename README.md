@@ -76,7 +76,7 @@ Git & GitHub – Version control and project hosting
 
 Frontend Development:Mohit ,Khushi ,Prachi and Priyanshi
 
-Backend Development: Mohit 
+Backend Development: Mohit and Pushkar
 
 Chatbot Integration:Mohit
 
