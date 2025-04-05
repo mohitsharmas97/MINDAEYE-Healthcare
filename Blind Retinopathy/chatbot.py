@@ -7,9 +7,9 @@ from datetime import datetime
 
 # Load API Key (Replace with your actual API key in production)
 # Replace the entire line with:
-GEMINI_API_KEY = "AIzaSyBl2fvOFG0xDiJN1KzYRbqTqOEa8MOSB_k"  # Paste between the quotes
+GEMINI_API_KEY = "API key"  # Paste between the quotes
 
-# Configure Gemini API
+# Configure Gemini A
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Project and App Information
