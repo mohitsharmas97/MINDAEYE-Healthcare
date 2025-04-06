@@ -3,3 +3,4 @@ torch==2.6.0
 torchvision==0.21.0
 pillow==11.1.0
 fpdf==1.7.2
+gunicorn==21.2.0
